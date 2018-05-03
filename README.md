@@ -1,8 +1,11 @@
 Tic Tac Toe Game
+
 Made with React JS
+
 Helpful Tutorial: https://reactjs.org/tutorial/tutorial.html
 
 To Run(in terminal): npm start
+
 To Stop(in terminal): Control + C
 
 Features:
